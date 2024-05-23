@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisjcthomas
+- 👋 Hi, I’m Christopher 
 - 👀 I’m interested in ...
 
 
