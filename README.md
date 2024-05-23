@@ -2,8 +2,8 @@
 
   Hi 👋, I'm Christopher!
 
-
-
+- I'm currently working on [Test](https:https://github.com/chrisjcthomas/chrisjcthomas)
+- I recently buiilt an app that 
 
 
 <!---
