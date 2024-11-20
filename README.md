@@ -18,7 +18,7 @@
 
   Hi 👋, I'm Christopher!
 
-- I'm currently working on [Test](https:https://github.com/chrisjcthomas/chrisjcthomas)
+- Final year student at University of Technology, Jamaica
 - I recently built...
 
 
