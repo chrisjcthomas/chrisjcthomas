@@ -1,3 +1,7 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Thomas
+========================================================================================================================================
+
+
 <p align="">
     <a href="https://www.linkedin.com/in/christopher-jc-thomas/" rel="nofollow">
         <img 
@@ -13,10 +17,6 @@
     </a>
 </p>
 
-
-
-
-  Hi 👋, I'm Christopher!
 
 - Final year student at University of Technology, Jamaica
 - I recently built...
