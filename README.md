@@ -21,40 +21,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a 
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpriyanka-murugan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
-
-    <svg viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    /* ... (CSS styles for snake and background) ... */
-    .contribution-square {
-      fill: #4CAF50; /* Initial color */
-      transition: fill 0.3s ease; /* Smooth color change */
-    }
-    .contribution-square.consumed {
-      fill: #ccc; /* Greyed out color */
-    }
-  </style>
-  <rect class="contribution-square" x="10" y="10" width="20" height="20" />
-  <rect class="contribution-square" x="30" y="10" width="20" height="20" />
-  {/* ... (More contribution squares) ... */}
-  <path class="snake" d="M10 10 L30 10 L50 10" />
-</svg>
-</h3>
-<svg viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    /* ... (CSS styles for snake and background) ... */
-    .contribution-square {
-      fill: #4CAF50; /* Initial color */
-      transition: fill 0.3s ease; /* Smooth color change */
-    }
-    .contribution-square.consumed {
-      fill: #ccc; /* Greyed out color */
-    }
-  </style>
-  <rect class="contribution-square" x="10" y="10" width="20" height="20" />
-  <rect class="contribution-square" x="30" y="10" width="20" height="20" />
-  {/* ... (More contribution squares) ... */}
-  <path class="snake" d="M10 10 L30 10 L50 10" />
-</svg>
 Check out my personal website!
 
 - 🌍  I'm based in Kingston, Jamaica
