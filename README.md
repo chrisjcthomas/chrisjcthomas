@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a 
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpriyanka-murugan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
-    <img src="https://gist.github.com/chrisjcthomas/6ebe5772ce5dfdf5136142859f07b133" alt="GitHub Contribution Graph">
+    <img src="https://gist.github.com/chrisjcthomas/6ebe5772ce5dfdf5136142859f07b133.js" alt="GitHub Contribution Graph">
 - Check out my personal website!
     
 - 🌍  I'm based in Kingston, Jamaica
