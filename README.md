@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     
 - 🌍  I'm based in Kingston, Jamaica
 
-<img src="https://gist.github.com/chrisjcthomas/6ebe5772ce5dfdf5136142859f07b133#file-gistfile1-txt" alt="GitHub Contribution Graph">
+<img src="https://gist.github.com/chrisjcthomas/6ebe5772ce5dfdf5136142859f07b133" alt="GitHub Contribution Graph">
 <!---
 chrisjcthomas/chrisjcthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
