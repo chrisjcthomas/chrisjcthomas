@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </h3> 
 
 - Check out my website!
-- 🌍 I'm based in Kingston, Jamaica.
+- 🌍 I'm based in Kingston, Jamaica..
   
 
 
