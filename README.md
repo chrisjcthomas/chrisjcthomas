@@ -34,7 +34,9 @@
 </div>
 <br/>
 
-![snake gif](https://github.com/chrisjcthomas/chrisjcthomas/blob/output/github-snake-dark.svg)
+<div align="center">
+    <img src="https://github.com/chrisjcthomas/chrisjcthomas/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
 
 <br/><br/>
 
