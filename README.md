@@ -1,7 +1,12 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Christopher.
-========================================================================================================================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Christopher+Thomas!;" />
+</h1>
 
+<h3 align="center">A passionate software developer from Jamaica </h3>
+
+<br/>
 <!-- Social connections -->
 <div align="center">
 
