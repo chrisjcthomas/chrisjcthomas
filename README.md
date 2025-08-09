@@ -27,7 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Check out my website!
 - 🌍 I'm based in Kingston, Jamaica..
   
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/chrisjcthomas/chrisjcthomas/blob/output/github-snake-dark.svg)
 
 
 <!---
