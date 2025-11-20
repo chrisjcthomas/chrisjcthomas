@@ -28,14 +28,14 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chrisjcthomas&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjcthomas&theme=aura&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=chrisjcthomas&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjcthomas&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0&size_weight=1." width="36%" /> </br>
 </div>
 <br/>
 <br/>
 
 <div align="center">
-    <img src="https://github.com/chrisjcthomas/chrisjcthomas/blob/output/github-snake-dark.svg" alt="snake gif"/>
+    <img src="https://raw.githubusercontent.com/chrisjcthomas/chrisjcthomas/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
 
 <br/><br/>
