@@ -18,7 +18,7 @@
 
 I'm Christopher Thomas, a developer from Jamaica who enjoys building practical software, exploring new ideas, and turning rough concepts into tools people can actually use.
 
-I like projects that solve real problems, especially across desktop apps, web experiences, and utilities that make everyday work smoother.
+
 
 ## Software You Might Like
 
