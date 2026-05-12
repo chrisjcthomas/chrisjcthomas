@@ -18,7 +18,7 @@
 
 I'm Christopher Thomas, a developer from Jamaica who enjoys building practical software, exploring new ideas, and turning rough concepts into tools people can actually use.
 
-
+<br/>
 
 ## Software You Might Like
 
@@ -26,12 +26,16 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 - [wsa-manager](https://github.com/chrisjcthomas/wsa-manager) - A Windows utility for installing, removing, and cleaning up Android apps in Windows Subsystem for Android.
 - [grids-pro](https://github.com/chrisjcthomas/grids-pro) - A project focused on building practical software with a stronger product feel and cleaner user workflows.
 
+<br/>
+
 ## Other Projects
 
 - [TileTale](https://github.com/chrisjcthomas/TileTale) - A creative project with room for interaction, experimentation, and playful ideas.
 - [YardRyde](https://github.com/chrisjcthomas/YardRyde) - A transport-focused project aimed at improving how people move and coordinate locally.
 - [JamAlert_HackathonV2](https://github.com/chrisjcthomas/JamAlert_HackathonV2) - A hackathon project built around alerts, responsiveness, and solving time-sensitive problems.
 - [StudentManagementSystem](https://github.com/chrisjcthomas/StudentManagementSystem) - A classic systems project centered on organizing student records and core management workflows.
+
+<br/>
 
 ## GitHub Activity
 
