@@ -44,6 +44,13 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 <br/>
 
+## Community & Discussions
+
+- [google-gemini/gemini-cli: docs discussion around vi mode shortcuts and MCP/custom sandbox setup](https://github.com/google-gemini/gemini-cli/issues/23825) - Opened and shaped the discussion that later turned into a merged documentation improvement.
+- [google-gemini/gemini-cli: review on CLI interrupt handling and chat compression](https://github.com/google-gemini/gemini-cli/pull/21683) - Contributed review activity and feedback as part of the broader open-source collaboration process.
+
+<br/>
+
 ## GitHub Activity
 
 <div align="center">
