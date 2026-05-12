@@ -46,7 +46,7 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 ## Community & Discussions
 
-- [google-gemini/gemini-cli: docs discussion around vi mode shortcuts and MCP/custom sandbox setup](https://github.com/google-gemini/gemini-cli/issues/23825) - Opened and shaped the discussion that later turned into a merged documentation improvement.
+- [pnpm: answered a discussion about skipping `minimumReleaseAgeExclude` from the CLI](https://github.com/orgs/pnpm/discussions/10358#discussioncomment-16525791) - Helped clarify config precedence and practical ways to override project settings when a dedicated ignore flag is not available.
 - [google-gemini/gemini-cli: review on CLI interrupt handling and chat compression](https://github.com/google-gemini/gemini-cli/pull/21683) - Contributed review activity and feedback as part of the broader open-source collaboration process.
 
 <br/>
