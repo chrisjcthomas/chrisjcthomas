@@ -37,6 +37,13 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 <br/>
 
+## OSS Contributions
+
+- [google-gemini/gemini-cli: honor `GOOGLE_GEMINI_BASE_URL` and `GOOGLE_VERTEX_BASE_URL`](https://github.com/google-gemini/gemini-cli/pull/25357) - Improved configuration behavior for alternate Gemini and Vertex endpoint setups.
+- [google-gemini/gemini-cli: add vi mode shortcuts and clarify MCP/custom sandbox setup](https://github.com/google-gemini/gemini-cli/pull/23853) - Contributed documentation improvements focused on editor workflows and setup clarity.
+
+<br/>
+
 ## GitHub Activity
 
 <div align="center">
