@@ -47,7 +47,7 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 ## Community & Discussions
 
 - [pnpm: answered a discussion about skipping `minimumReleaseAgeExclude` from the CLI](https://github.com/orgs/pnpm/discussions/10358#discussioncomment-16525791) - Helped clarify config precedence and practical ways to override project settings when a dedicated ignore flag is not available.
-- [google-gemini/gemini-cli: review on CLI interrupt handling and chat compression](https://github.com/google-gemini/gemini-cli/pull/21683) - Contributed review activity and feedback as part of the broader open-source collaboration process.
+- [cli/cli: answered a discussion about getting a trend of open issues over time](https://github.com/cli/cli/discussions/11040#discussioncomment-16537579) - Shared a practical GitHub CLI approach for building a month-by-month open issue trend using the search API.
 
 <br/>
 
