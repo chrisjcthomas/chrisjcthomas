@@ -39,15 +39,15 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 ## OSS Contributions
 
-- [google-gemini/gemini-cli: honor `GOOGLE_GEMINI_BASE_URL` and `GOOGLE_VERTEX_BASE_URL`](https://github.com/google-gemini/gemini-cli/pull/25357) - Improved configuration behavior for alternate Gemini and Vertex endpoint setups.
-- [google-gemini/gemini-cli: add vi mode shortcuts and clarify MCP/custom sandbox setup](https://github.com/google-gemini/gemini-cli/pull/23853) - Contributed documentation improvements focused on editor workflows and setup clarity.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/pull/25357) - Improved configuration behavior for alternate Gemini and Vertex endpoint setups.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/pull/23853) - Contributed documentation improvements focused on editor workflows and setup clarity.
 
 <br/>
 
 ## Community & Discussions
 
-- [pnpm: answered a discussion about skipping `minimumReleaseAgeExclude` from the CLI](https://github.com/orgs/pnpm/discussions/10358#discussioncomment-16525791) - Helped clarify config precedence and practical ways to override project settings when a dedicated ignore flag is not available.
-- [cli/cli: answered a discussion about getting a trend of open issues over time](https://github.com/cli/cli/discussions/11040#discussioncomment-16537579) - Shared a practical GitHub CLI approach for building a month-by-month open issue trend using the search API.
+- [pnpm](https://github.com/orgs/pnpm/discussions/10358#discussioncomment-16525791) - Helped clarify config precedence and practical ways to override project settings when a dedicated ignore flag is not available.
+- [cli/cli](https://github.com/cli/cli/discussions/11040#discussioncomment-16537579) - Shared a practical GitHub CLI approach for building a month-by-month open issue trend using the search API.
 
 <br/>
 
