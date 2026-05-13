@@ -30,10 +30,8 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 ## Other Projects
 
-- [TileTale](https://github.com/chrisjcthomas/TileTale) - A creative project with room for interaction, experimentation, and playful ideas.
 - [YardRyde](https://github.com/chrisjcthomas/YardRyde) - A transport-focused project aimed at improving how people move and coordinate locally.
-- [JamAlert_HackathonV2](https://github.com/chrisjcthomas/JamAlert_HackathonV2) - A hackathon project built around alerts, responsiveness, and solving time-sensitive problems.
-- [StudentManagementSystem](https://github.com/chrisjcthomas/StudentManagementSystem) - A classic systems project centered on organizing student records and core management workflows.
+- [JamAlert_HackathonV2](https://github.com/chrisjcthomas/JamAlert_HackathonV2) - A Microsoft hackathon project built around alerts, responsiveness, and solving time-sensitive problems.
 
 <br/>
 
