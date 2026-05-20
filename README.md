@@ -22,8 +22,8 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 ## Software You Might Like
 
+- [wsa-manager](https://github.com/chrisjcthomas/wsa-manager) - A native Windows app for dropping APK files into Windows Subsystem for Android and installing them without touching ADB.
 - [WingetUpdateManager](https://github.com/chrisjcthomas/WingetUpdateManager) - A Windows desktop app for scanning, updating, and managing `winget` and global npm packages.
-- [wsa-manager](https://github.com/chrisjcthomas/wsa-manager) - A Windows utility for installing, removing, and cleaning up Android apps in Windows Subsystem for Android.
 - [grids-pro](https://github.com/chrisjcthomas/grids-pro) - A project focused on building practical software with a stronger product feel and cleaner user workflows.
 
 <br/>
