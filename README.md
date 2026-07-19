@@ -20,7 +20,7 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 <br/>
 
-## Software You Might Like
+## Passion Projects
 
 - [wsa-manager](https://github.com/chrisjcthomas/wsa-manager) - A Native Windows app for installing APKs into Windows Subsystem for Android without touching ADB.
 - [WingetUpdateManager](https://github.com/chrisjcthomas/WingetUpdateManager) - A Windows desktop app for scanning, updating, and managing `winget` and global npm packages.
