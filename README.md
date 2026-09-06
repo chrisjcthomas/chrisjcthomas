@@ -22,7 +22,7 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 ## Passion Projects
 
-- [touchline-fpl](https://github.com/chrisjcthomas/touchline-fpl) - Premier League & UCL Fantasy decision platform featuring Dixon-Coles match outcome forecasting, expected return hurdle models, and algorithmic squad optimization.
+- [touchline-fpl](https://github.com/chrisjcthomas/touchline-fpl) - An analytics and decision platform for Premier League and UCL Fantasy.
 - [wsa-manager](https://github.com/chrisjcthomas/wsa-manager) - A Native Windows app for installing APKs into Windows Subsystem for Android without touching ADB.
 - [WingetUpdateManager](https://github.com/chrisjcthomas/WingetUpdateManager) - A Windows desktop app for scanning, updating, and managing `winget` and global npm packages.
 - [grids-pro](https://github.com/chrisjcthomas/grids-pro) - A project focused on building practical software with a stronger product feel and cleaner user workflows.
