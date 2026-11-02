@@ -46,8 +46,11 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 ## Community & Discussions
 
-- [pnpm](https://github.com/orgs/pnpm/discussions/10358#discussioncomment-16525791) - Helped clarify config precedence and practical ways to override project settings when a dedicated ignore flag is not available.
-- [cli/cli](https://github.com/cli/cli/discussions/11040#discussioncomment-16537579) - Shared a practical GitHub CLI approach for building a month-by-month open issue trend using the search API.
+- [mobxjs/mobx](https://github.com/mobxjs/mobx/discussions/4579#discussioncomment-18033035)
+- [rollup/rollup](https://github.com/rollup/rollup/discussions/5856#discussioncomment-18032792)
+- [vercel/next.js](https://github.com/vercel/next.js/discussions/62646#discussioncomment-17685954)
+- [fastify/fastify](https://github.com/fastify/fastify/discussions/5687#discussioncomment-17650210)
+- [webpack/webpack](https://github.com/webpack/webpack/discussions/20714#discussioncomment-17650208)
 
 <br/>
 
