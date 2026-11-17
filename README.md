@@ -46,11 +46,11 @@ I'm Christopher Thomas, a developer from Jamaica who enjoys building practical s
 
 ## Community & Discussions
 
-- [mobxjs/mobx](https://github.com/mobxjs/mobx/discussions/4579#discussioncomment-18033035)
-- [rollup/rollup](https://github.com/rollup/rollup/discussions/5856#discussioncomment-18032792)
-- [vercel/next.js](https://github.com/vercel/next.js/discussions/62646#discussioncomment-17685954)
-- [fastify/fastify](https://github.com/fastify/fastify/discussions/5687#discussioncomment-17650210)
-- [webpack/webpack](https://github.com/webpack/webpack/discussions/20714#discussioncomment-17650208)
+- [webpack/webpack](https://github.com/webpack/webpack/discussions/22895#discussioncomment-19671046)
+- [trpc/trpc](https://github.com/trpc/trpc/discussions/6890#discussioncomment-19671049)
+- [solidjs/solid](https://github.com/solidjs/solid/discussions/4783#discussioncomment-19671050)
+- [rollup/rollup](https://github.com/rollup/rollup/discussions/5327#discussioncomment-19671051)
+- [rollup/rollup](https://github.com/rollup/rollup/discussions/5315#discussioncomment-19671055)
 
 <br/>
 
